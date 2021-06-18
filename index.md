@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## A test repository page
 
-You can use the [editor on GitHub](https://github.com/carlhiggs/test_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This web page associated with the [test repo](https://github.com/carlhiggs/test_repo) repository was created from the Pages menu in Settings.  By clicking to select a theme, a web page template was generated in Markdown.  Markdown is a basic text format which describes how headings and other page elements should be styled, using minimal text symbols.  Git pages then interprets this markdown text document according to the chosen theme, and updates to reflect any changes made to the template.
 
 ### Markdown
 
