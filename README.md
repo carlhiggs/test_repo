@@ -1,7 +1,12 @@
 --- 
 # A YAML template for project metadata
-# inspired by https://github.com/leipzig/metadata-in-rcr/blob/master/data/examples/rescience_metadata.yaml
 # Carl Higgs 2021
+
+# Inspired by 
+#    https://github.com/leipzig/metadata-in-rcr/blob/master/data/examples/rescience_metadata.yaml
+#    https://www.ands.org.au/__data/assets/pdf_file/0004/728041/Metadata-Workinglevel.pdf
+#    Leipzig, J. et al. (2021) ‘The role of metadata in reproducible computational research’, Patterns, 2(9). doi:10.1016/j.patter.2021.100322.
+
 
 # Project name
 title: "Project name" 
