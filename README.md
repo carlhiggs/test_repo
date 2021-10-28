@@ -42,5 +42,23 @@ license: # use SPDX identifiers, see https://spdx.org/licenses/
     output-data: ODbL-1.0
 ---
 
-# test_repo
-This is a test for a presentation i am giving on git and github
+# Markdown with YAML header test
+
+This is a test of a markdown document with a YAML header for metadata, visualising how this might look.  In this section regular markdown could be used to describe a project and its aims.
+
+Aims might include:
+
+ - to A
+ - to B
+ - to C
+
+A timeline could be included
+
+|Start     |End        | Description|
+|----------|-----------|-------------|
+|2020-10-05|2023-01-30 | This is a time window when something could happen|
+|2021-11-05|2022-01-30 | Another duration|
+|2023-01-01|2023-01-23 | Something else|
+
+To find out more contact a.person@someplace.org
+
